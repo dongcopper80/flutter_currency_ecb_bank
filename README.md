@@ -10,3 +10,9 @@ $ flutter run
 
 ## Getting Started
 
+# to change package name you must run flowing 
+
+$ flutter pub add change_app_package_name
+
+$ flutter pub run change_app_package_name:main aa.bb.ecb
+
